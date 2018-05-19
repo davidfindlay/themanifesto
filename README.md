@@ -16,6 +16,8 @@ year to another.
 * Tax Free Threshold equal to median income.
 * Progressive tax system up to 49% personal income tax at top threshold.
 * Establishment of a Sovereign Wealth Fund.
+* Introduction of laws preventing corporations operating both consumer banking and 
+investment businesses.
 
 ### Industrial Relations
 * Progressive reduction standard working week from 38 hours to 35 hours in 2025 and 32 
@@ -26,6 +28,10 @@ fast food, hospitality and retail industries.
 fast food, hospitality and retail industries.
 * Introduction of crime of wage theft, with custodial sentences on with similar penalties 
 to Stealing as a Servant charges applicable to employees.
+
+### Social Justice
+* Complete ban on Poker Machines.
+* Ban on gambling advertising. 
 
 ### Housing Policy
 * Target of sufficient public housing to provide low cost public housing to the poorest 
@@ -54,6 +60,7 @@ school.
 * Amalgamate the Medicare Levy into standard income tax system.
 * National vaccination programme for all residents, with all vaccinations provided free.
 * Research funding for a vaccine and cure for HTLV-1 Virus.
+* 10% additional tax on food products that do not meet certain nutritional requirements.
 
 ### Energy
 * Renationalise electricity network. 
