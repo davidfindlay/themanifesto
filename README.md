@@ -20,6 +20,12 @@ year to another.
 ### Industrial Relations
 * Progressive reduction standard working week from 38 hours to 35 hours in 2025 and 32 
 hours in 2030. Target of 25 hours in 2040.
+* Fair Work Commission required to undertake ongoing enforcement action, particularly in 
+fast food, hospitality and retail industries. 
+* Royal Commission into illegal conditions, illegal employment and wage theft in the 
+fast food, hospitality and retail industries.
+* Introduction of crime of wage theft, with custodial sentences on with similar penalties 
+to Stealing as a Servant charges applicable to employees.
 
 ### Housing Policy
 * Target of sufficient public housing to provide low cost public housing to the poorest 
